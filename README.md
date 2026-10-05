@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/olive-256.png" alt="OLIVE" width="128" height="128">
+  <img src="/olive-512.png" alt="OLIVE" width="128" height="128">
 </p>
 
 <h1 align="center">OLIVE 1.0</h1>
