@@ -1,4 +1,8 @@
-# OLIVE 1.0
+<p align="center">
+  <img src="assets/branding/olive-256.png" alt="OLIVE" width="128" height="128">
+</p>
+
+<h1 align="center">OLIVE 1.0</h1>
 
 OLIVE is a private AI assistant that runs on your own computer. Chat, research, documents,
 coding tasks, notes, drawings and image generation run locally, with [Ollama](https://ollama.com)
